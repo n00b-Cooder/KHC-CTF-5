@@ -7,5 +7,5 @@ DECODE EITHER
 OR
 
 2nd Decode
-https://n00b-cooder.github.io/team404.io/2nd.txt 
+https://github.com/n00bcooD3R/team404.io/blob/main/2nd.txt
 
